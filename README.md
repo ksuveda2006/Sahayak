@@ -1,6 +1,6 @@
 # Sahayak - AI-Powered Teaching Assistant for Rural Education
 
-🌟 **Live Demo**: [https://qjh9iec55m0m.manus.space](https://qjh9iec55m0m.manus.space)
+🌟 **Live Demo**: [https://crbzxrig.manus.space/dashboard](https://crbzxrig.manus.space/dashboard)
 
 ## 🚀 Overview
 
